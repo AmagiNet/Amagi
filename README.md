@@ -89,7 +89,41 @@ These are the initial requirements
     </device>
 
 
-What is "Amagi Data Protocol ?
+What is "Amagi Data Protocol" ?
 -------------------------------
 
 Protocol that defines communication rules and type of data transmitted between a node and an Amagi Server
+
+
+What is "Amagi Server" ?
+-------------------------------
+
+A computer with Amagi Server Software running, that provides 
+
+    - AmagiOpenData Reception Services
+        Reception of data packets in .AMA format
+            
+            Security and encryption
+            Identification
+            Data groups
+            Hosting and Backup
+        
+    
+    - AmagiOpenData Send Services
+        Send of process data packets in multiple formats
+            XML
+            JSON
+            MySQL
+            RSS
+            ...etc.
+
+    
+    - AmagiOpenData Front End Services
+        Web Front End Service to publish web content
+    
+    
+    - AmagiOpenData Back End Service
+        Web Back End Service to publish web content
+
+
+Basically, identifies a node receives and stores data, and make available to the public worldwide
