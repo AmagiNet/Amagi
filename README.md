@@ -8,8 +8,8 @@ I´m alive... :-)
 The user creates the network...
 
 -------------------------------
-
 A > ¿ What is "Amagi Project" ?
+-------------------------------
 
 Code was first..
     
@@ -47,8 +47,9 @@ to get a better and happy world for everyone, without exception.
 Wake up and join the Amagi movement !
 
 -------------------------------
-
 B > ¿ What is "Amagi Network Project" ?
+-------------------------------
+
 
 Project on building a global free mesh network AMAGI - class I
 
