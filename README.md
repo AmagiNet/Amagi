@@ -126,4 +126,10 @@ A computer with Amagi Server Software running, that provides
         Web Back End Service to publish web content
 
 
-Basically, identifies a node receives and stores data, and make available to the public worldwide
+Basically,it´s a server that 
+
+    1 identifies a node
+    2 receives and stores data transfers from the node
+    3 make available to the public worldwide in multiple formats
+    
+
