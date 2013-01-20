@@ -87,3 +87,9 @@ These are the initial requirements
             <opendata>          </opendata>
         </requirements>
     </device>
+
+
+What is "Amagi Data Protocol ?
+-------------------------------
+
+Protocol that defines communication rules and type of data transmitted between a node and an Amagi Server
