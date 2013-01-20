@@ -112,30 +112,28 @@ What is "Amagi Server" ?
 
 A computer with Amagi Server Software running, that provides 
 
-    - AmagiOpenData Reception Services
-        Reception of data packets in .AMA format
+    - AmagiOpenData Reception Services : reception of data packets in .AMA format. This paquet defines
             
-            Security and encryption
-            Identification
-            Data groups
-            Hosting and Backup
+            - Security and encryption
+            - Identification
+            - Data groups
+            - Hosting and Backup
         
     
-    - AmagiOpenData Send Services
-        Send of process data packets in multiple formats
-            XML
-            JSON
-            MySQL
-            RSS
+    - AmagiOpenData Send Services : Send of process data packets in multiple formats
+            
+            - XML
+            - JSON
+            - MySQL
+            - RSS
             ...etc.
 
     
-    - AmagiOpenData Front End Services
-        Web Front End Service to publish web content
+    - AmagiOpenData Front End Services : Web Front End Service to publish web content
     
     
-    - AmagiOpenData Back End Service
-        Web Back End Service to publish web content
+    - AmagiOpenData Back End Service: Web Back End Service to publish web content
+
 
 
 Basically,it´s a server that 
@@ -143,6 +141,8 @@ Basically,it´s a server that
     1 identifies a node
     2 receives and stores data transfers from the node
     3 make available to the public worldwide in multiple formats
+
+
 
 What types of data can send a node ?
 -------------------------------
@@ -152,11 +152,14 @@ But it´s not a problem.
 
 You can send the next data groups to the server :
 
+
     - Identification and state data group
     - Sensors data group
     - Running Services information data group
 
 As you want.
+
+
 
 But, you're required to send ONLY one data group : IMALIVE
 
