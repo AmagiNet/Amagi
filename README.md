@@ -143,5 +143,53 @@ Basically,it´s a server that
     1 identifies a node
     2 receives and stores data transfers from the node
     3 make available to the public worldwide in multiple formats
-    
+
+What types of data can send a node ?
+-------------------------------
+
+No limits !! ( lie :-(), there are limits, for now...
+But it´s not a problem.
+
+You can send the next data groups to the server :
+
+    - Identification and state data group
+    - Sensors data group
+    - Running Services information data group
+
+As you want.
+
+But, you're required to send ONLY one data group : IMALIVE
+
+IMALIVE is the minimal data group that you need send to connect and use an Amagi Server.
+
+IMALIVE is like the beating heart of the device.
+
+When you send He's saying 
+    - I'm alive and I'm ready.
+
+Amagi Servers receive all this beats  
+
+IMALIVE contains a minimum data set that the owner of the device available to everyone freely.
+With this data contributes to a large network scheme, useful for improving communication among all.
+
+The minimum packet data IMALIVE are:
+
+    <?xml version="1.0"?>
+        <imalive>
+            <minimaldata>
+                <IDstring>      </IDstring> // : Alphanumeric identificator
+                
+                <Name>          </Name>     // : Name of the device
+                
+                <Class>         </Class>    // : Type of device
+                
+                <Family>        </Family>   // : Groups of devices
+                
+                <Beat>          </Beat>     // : Message to the world "I´m Alive"
+                
+                <Message>       </Message>  // : Message 200 char.
+            </minimaldata>
+        </imalive>
+
+There is not ANY PERSONAL DATA in this scheme.
 
