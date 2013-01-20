@@ -63,7 +63,7 @@ AMAGI class I : All the devices connected
     - have a free operative system running
     - have free software apps running
     - are connected to a free network
-    - send opendata to an Amagi Server
+    - send opendata to an Amagi Server (AMAGI Data Protocol)
 
 These are the initial requirements
 
