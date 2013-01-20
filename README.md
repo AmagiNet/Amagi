@@ -59,7 +59,7 @@ AMAGI class I : All the devices connected
     - are connected to a free network
     - send opendata
 
-
+These are the initial requirements
 
     <?xml version="1.0"?>
     <device>
