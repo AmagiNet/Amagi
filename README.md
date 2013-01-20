@@ -48,3 +48,26 @@ Wake up and join the Amagi movement !
 
 
 B > ¿ What is "Amagi Network Project" ?
+
+Project on building a global free mesh network AMAGI - class I
+
+AMAGI class I : All the devices connected
+
+    - are free hardware running
+    - have a free operative system running
+    - have free software apps running
+    - are connected to a free network
+    - send opendata
+
+
+
+    <?xml version="1.0"?>
+    <device>
+        <requirements>
+            <freehardware>      </freehardware>
+            <freeos>            </freeos>
+            <freesoft>          </freesoft>
+            <freenet>           </freenet>
+            <opendata>          </opendata>
+        </requirements>
+    </device>
