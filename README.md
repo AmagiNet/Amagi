@@ -1,5 +1,5 @@
-Amagi
-=====
+The Amagi Project
+=================
 
 
 
