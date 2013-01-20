@@ -19,5 +19,7 @@ Code was first..
         <creator>human</creator>
     </amagi>
 
+The Amagi Project, created with the aim of spreading the values of free hardware and software,
+as well as its use to create free networks
 
 B > ¿ What is "Amagi Network Project" ?
