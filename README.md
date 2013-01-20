@@ -12,7 +12,7 @@ The user creates the network...
 
 
 
-¿ What is "Amagi Project" ?
+What is "Amagi Project" ?
 -------------------------------
 
 Code was first..
@@ -51,7 +51,7 @@ to get a better and happy world for everyone, without exception.
 Wake up and join the Amagi movement !
 
 
-¿ What is "Amagi Network Project" ?
+What is "Amagi Network Project" ?
 -------------------------------
 
 
