@@ -26,22 +26,29 @@ Code was first..
 The Amagi Project, created with the aim of spreading the values of free hardware and software,
 as well as its use to create free networks.
 
-++++++++++++++ <h3>Amagi equation</h3>
+
+
+++++++++++++++ 
+<h3>Amagi equation</h3>
+++++++++++++++ 
+
 
 [[ Free Hardware + Free OS ] + Free Software Apps ] + [ Free Networks ] + [ Open Data ] = Free World
 
 
-    <?xml version="1.0"?>
-    <equation>
-        <components>
-            <first>Free Hardware</first>
-            <second>Free OS</second>
-            <third>Free Software Apps</third>
-            <fourth>Free Networks</fourth>
-            <fifth>Open Data</fifth>
-            <total>Free World</total>
-        </components>
-    </equation>
+
+
+                        <?xml version="1.0"?>
+                        <equation>
+                            <components>
+                                <first>Free Hardware</first>
+                                <second>Free OS</second>
+                                <third>Free Software Apps</third>
+                                <fourth>Free Networks</fourth>
+                                <fifth>Open Data</fifth>
+                                <total>Free World</total>
+                            </components>
+                        </equation>
 
 Therefore, the project is designed to implement this formula in our real world.
 
