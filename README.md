@@ -39,7 +39,9 @@ Amagi equation
         </components>
     </equation>
 
-Therefore, the project is designed to implement this formula in our real world
+Therefore, the project is designed to implement this formula in our real world.
+
+The ways to apply the formula are infinite. The Amagi project is dedicated to travel and study these ways
 
 
 
