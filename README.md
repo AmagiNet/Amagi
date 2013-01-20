@@ -65,6 +65,16 @@ AMAGI class I : All the devices connected
     - are connected to a free network
     - send opendata to an Amagi Server (AMAGI Data Protocol)
 
+
+Devices List :
+
+    - Embebbed Systems ( Raspberry Pi, BeagleBoard, Arduino.. )
+    - Phones
+    - Tablets
+    - Set Top Boxes
+    - Stations ( sensors )
+    - Others
+
 These are the initial requirements
 
     <?xml version="1.0"?>
