@@ -39,4 +39,8 @@ Amagi equation
         </components>
     </equation>
 
+Therefore, the project is designed to implement this formula in our real world
+
+
+
 B > ¿ What is "Amagi Network Project" ?
