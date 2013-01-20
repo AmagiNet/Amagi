@@ -28,25 +28,30 @@ as well as its use to create free networks.
 
 
 
-++++++++++++++ 
+
 <h3>Amagi equation</h3>
-++++++++++++++ 
+_______________________
 
 
 [[ Free Hardware + Free OS ] + Free Software Apps ] + [ Free Networks ] + [ Open Data ] = Free World
 
 
 
-
                         <?xml version="1.0"?>
                         <equation>
                             <components>
-                                <first>Free Hardware</first>
-                                <second>Free OS</second>
-                                <third>Free Software Apps</third>
-                                <fourth>Free Networks</fourth>
-                                <fifth>Open Data</fifth>
-                                <total>Free World</total>
+                                <first>Free Hardware
+                                </first>
+                                <second>Free OS
+                                </second>
+                                <third>Free Software Apps
+                                </third>
+                                <fourth>Free Networks
+                                </fourth>
+                                <fifth>Open Data
+                                </fifth>
+                                <total>Free World
+                                </total>
                             </components>
                         </equation>
 
