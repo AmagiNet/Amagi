@@ -46,6 +46,7 @@ to get a better and happy world for everyone, without exception.
 
 Wake up and join the Amagi movement !
 
+-------------------------------
 
 B > ¿ What is "Amagi Network Project" ?
 
