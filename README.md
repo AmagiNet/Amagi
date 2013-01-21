@@ -81,15 +81,45 @@ AMAGI class I : All the devices connected
     
     - Are free devices:
         - are free hardware running
+        - are connected to a free network
         - have a free operative system running
         - have free software apps running
+        
+    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+        -IMALIVE Data Packet
+
+Due to the difficulty of obtaining real hardware and free software,
+to make this possible, it is necessary to enable AMAGI - class II, III, IV.
+
+AMAGI class II : Some devices connected
+
+    - Are open devices :
         - are connected to a free network
+        - have a free operative system running
+        - have free software apps running
+        
+    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+        -IMALIVE Data Packet
+
+AMAGI class III : Some devices connected
+
+    - Are open devices :
+        - have a free operative system running
+        - have free software apps running
+        
+    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+        -IMALIVE Data Packet
+
+AMAGI class IV : Some devices connected
+
+    - Are open devices :
+        - have free software apps running
         
     - Send Opendata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
 
-Devices List :
+Devices List ( example ):
 
     - Embebbed Systems
         - Raspberry Pi
@@ -97,12 +127,14 @@ Devices List :
         - Arduino
     - Phones
         - Android
+        -
         - Firefox OS
         - Other Linux
     - Tablets
         - Android
         - Other Linux
     - Set Top Boxes
+    - Home Servers
     - Stations ( sensors )
     - Others
 
