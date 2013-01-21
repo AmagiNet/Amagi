@@ -103,7 +103,19 @@ These are the initial requirements
 What is "Amagi Data Protocol" ?
 -------------------------------
 
-Protocol that defines communication rules and type of data transmitted between a node and an Amagi Server
+Protocol that defines communication rules and type of data transmitted between a device and an Amagi Server.
+
+<bold>Communication Rules</bold>
+
+- AmagiOpenRules
+
+<bold>Data Types</bold>
+
+- AmagiOpenData Packets
+    
+    - IMALIVE Packet
+
+- AmagiCommData Packets
 
 
 What is "Amagi Server" ?
