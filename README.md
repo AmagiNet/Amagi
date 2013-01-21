@@ -31,7 +31,7 @@ But a free network must have free data.
 Each device on the network should be able to release a minimum data useful to the community,
 in a safe, anonymous and free.
 
-Bring life to your device and join the world's largest network of free devices
+Bring life to your device
 
 
 
