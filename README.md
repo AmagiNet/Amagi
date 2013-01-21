@@ -162,6 +162,8 @@ Basically,it´s a server that
     3 make available to the public worldwide in multiple formats
 
 
+An Amagi Server have a dedicated web space for each of the devices.
+
 
 What types of data can send a device ?
 -------------------------------
