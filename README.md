@@ -151,11 +151,10 @@ Basically,it´s a server that
 
 
 
-What types of data can send a node ?
+What types of data can send a device ?
 -------------------------------
 
-No limits !! ( lie :-(), there are limits, for now...
-But it´s not a problem.
+No limits !! ( lie :-(), there are limits, for now...But it´s not a problem.
 
 You can send the next data groups to the server :
 
@@ -170,7 +169,7 @@ As you want.
 
 But, you're required to send ONLY one data group : IMALIVE
 
-IMALIVE
+<h5>IMALIVE</h5>
 
 The minimal data group that you need send to connect and use an Amagi Server.
 Is like the beating heart of the device.
