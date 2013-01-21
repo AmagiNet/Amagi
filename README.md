@@ -31,6 +31,9 @@ But a free network must have free data.
 Each device on the network should be able to release a minimum data useful to the community,
 in a safe, anonymous and free.
 
+The main step to free up a device is turn it into a opendata transmitter active.
+
+
 Bring life to your device
 
 
@@ -76,7 +79,7 @@ Project on building a global free mesh network AMAGI - class I
 
 AMAGI class I : All the devices connected
     
-    - Free Devices
+    - Are free devices:
         - are free hardware running
         - have a free operative system running
         - have free software apps running
@@ -85,12 +88,20 @@ AMAGI class I : All the devices connected
     - Send Opendata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
-- Free devices sending opendata 
+
 Devices List :
 
-    - Embebbed Systems ( Raspberry Pi, BeagleBoard, Arduino.. )
+    - Embebbed Systems
+        - Raspberry Pi
+        - BeagleBoard
+        - Arduino
     - Phones
+        - Android
+        - Firefox OS
+        - Other Linux
     - Tablets
+        - Android
+        - Other Linux
     - Set Top Boxes
     - Stations ( sensors )
     - Others
