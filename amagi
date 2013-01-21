@@ -7,27 +7,44 @@
       <!-- DEVICE -->
       <device>
         <requirements>
+
+        <!-- CLASS I ----------------------->
+
           <freehardware>   
               <type></type>
                 <family></family>
           </freehardware>
+
+        <!-- CLASS II ----------------------->      
+
+          <freenet>
+              <IDNet></IDNet>
+          </freenet>
+
+        <!-- CLASS III ----------------------->
+
           <freeos>
               <type></type>
                 <family></family>
           </freeos>
+
+        <!-- CLASS IV ----------------------->
+
           <freesoft>
               <type></type>
                 <family></family>
           </freesoft>
-          <freenet>
-              <IDNet></IDNet>
-          </freenet>     
-          <opendata>
+
+        <!-- CLASS AMAGI ----------------------->              
+
+          <AmagiOpenData>
               <imalive>
                 <id></id>
                 <name></name>
               </imalive>
-          </opendata>
+          </AmagiOpenData>
+
+
         </requirements>
       </device>
     <creator>human</creator>
