@@ -171,14 +171,17 @@ As you want.
 But, you're required to send ONLY one data group : IMALIVE
 
 IMALIVE
-    The minimal data group that you need send to connect and use an Amagi Server.
-    Is like the beating heart of the device.
-    When you send He's saying 
+
+The minimal data group that you need send to connect and use an Amagi Server.
+Is like the beating heart of the device.
+When you send He's saying 
         
-        - I'm alive and I'm ready.
-    Amagi Servers receive all this beats  
+    I'm alive and I'm ready.
+
+Amagi Servers receive all this beats  
 
 IMALIVE contains a minimum data set that the owner of the device available to everyone freely.
+
 With this data contributes to a large network scheme, useful for improving communication among all.
 
 The minimum packet data IMALIVE are:
