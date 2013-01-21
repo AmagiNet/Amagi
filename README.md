@@ -113,7 +113,7 @@ A computer with Amagi Server Software running, that provides
 
     - AmagiOpenData Reception Services
         
-        reception of data packets in .AMA format. This paquet defines
+        reception of data packets in AMA format. This paquet defines
             
             - Security and encryption
             - Identification
@@ -169,7 +169,7 @@ As you want.
 
 But, you're required to send ONLY one data group : IMALIVE
 
-<h5>IMALIVE</h5>
+<h5>IMALIVE: A minimal AmagiOpenData</h5>
 
 The minimal data group that you need send to connect and use an Amagi Server.
 Is like the beating heart of the device.
