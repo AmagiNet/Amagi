@@ -39,7 +39,9 @@ Bring life to your device
 _______________________
 
 
-[[ Free Hardware + Free OS ] + Free Software Apps ] + [ Free Networks ] + [ Open Data ] = Free World
+[Free Hardware] + [Free OS]  + [Free Software Apps] + [Free Networks] + [Open Data] = Free World
+
+        1               2               3                   4               5   
 
 
 
@@ -75,12 +77,15 @@ What is "Amagi Network Project" ?
 Project on building a global free mesh network AMAGI - class I
 
 AMAGI class I : All the devices connected
-
-    - are free hardware running
-    - have a free operative system running
-    - have free software apps running
-    - are connected to a free network
-    - send opendata to an Amagi Server (AMAGI Data Protocol)
+    
+    - Free Devices
+        - are free hardware running
+        - have a free operative system running
+        - have free software apps running
+        - are connected to a free network
+        
+    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+        -IMALIVE Data Packet
 
 - Free devices sending opendata 
 Devices List :
