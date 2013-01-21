@@ -91,7 +91,7 @@ AMAGI class I : All the devices connected
 Due to the difficulty of obtaining real hardware and free software,
 to make this possible, it is necessary to enable AMAGI - class II, III, IV.
 
-AMAGI class II : Some devices connected
+AMAGI class II : All devices connected
 
     - Are open devices :
         - are connected to a free network
@@ -101,7 +101,7 @@ AMAGI class II : Some devices connected
     - Send Opendata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
-AMAGI class III : Some devices connected
+AMAGI class III : All devices connected
 
     - Are open devices :
         - have a free operative system running
@@ -110,7 +110,7 @@ AMAGI class III : Some devices connected
     - Send Opendata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
-AMAGI class IV : Some devices connected
+AMAGI class IV : All devices connected
 
     - Are open devices :
         - have free software apps running
