@@ -19,7 +19,7 @@ Code was first..
     
     <?xml version="1.0"?>
     <amagi>
-        <target>Back to the mother</target>
+        <target>Return to the mother</target>
         <creator>human</creator>
     </amagi>
 
