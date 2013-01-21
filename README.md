@@ -40,8 +40,7 @@ _______________________
 
 
 [Free Hardware] + [Free OS]  + [Free Software Apps] + [Free Networks] + [Open Data] = Free World
-
-        1               2               3                   4               5   
+1                   2                   3                   4               5   
 
 
 
