@@ -207,4 +207,4 @@ There is not ANY PERSONAL DATA in this scheme.
 
 <h3>RESUME</h3>
 
-Amagi Project >>>>> Amagi Network Project >>>>> Amagi Server >>>>> Amagi Data Protocol >>>>> IMALIVE Data
+Amagi Project ----> Amagi Network Project ----> Amagi Server ----> Amagi Data Protocol ----> IMALIVE Data
