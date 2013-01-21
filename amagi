@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+
+<!-- BEGIN -->
+<amagi>
+
+<!-- TARGET -->
+    <target>Return to the mother</target>
+
+      <!-- DEVICE -->
+
+      <device>
+
+        <requirements>
+
+          <freehardware>
+              
+              <type></type>
+                <family></family>
+
+          </freehardware>
+          
+          <freeos>
+
+              <type></type>
+                <family></family>
+
+          </freeos>
+          
+          <freesoft>
+
+              <type></type>
+                <family></family>
+          
+          </freesoft>
+          
+          <freenet>
+          
+              <IDNet></IDNet>
+
+          </freenet>
+          
+          <opendata>
+
+              <imalive>
+  
+                <id></id>
+                <name></name>
+  
+              </imalive>
+
+          </opendata>
+
+        </requirements>
+      </device>
+    <creator>human</creator>
+</amagi>
