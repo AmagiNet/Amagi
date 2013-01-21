@@ -204,3 +204,6 @@ The minimum packet data IMALIVE :
 
 There is not ANY PERSONAL DATA in this scheme.
 
+In resume
+
+Amagi Project >>>>> Amagi Network Project >>>>> Amagi Server >>>>> Amagi Data Protocol >>>>> IMALIVE Data
