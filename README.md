@@ -111,7 +111,9 @@ What is "Amagi Server" ?
 
 A computer with Amagi Server Software running, that provides 
 
-    - AmagiOpenData Reception Services : reception of data packets in .AMA format. This paquet defines
+    - AmagiOpenData Reception Services
+        
+        reception of data packets in .AMA format. This paquet defines
             
             - Security and encryption
             - Identification
@@ -119,7 +121,9 @@ A computer with Amagi Server Software running, that provides
             - Hosting and Backup
         
     
-    - AmagiOpenData Send Services : Send of process data packets in multiple formats
+    - AmagiOpenData Send Services
+        
+        send of process data packets in multiple formats
             
             - XML
             - JSON
@@ -128,10 +132,14 @@ A computer with Amagi Server Software running, that provides
             ...etc.
 
     
-    - AmagiOpenData Front End Services : Web Front End Service to publish web content
+    - AmagiOpenData Front End Services
+    
+        web front-end service to publish web content
     
     
-    - AmagiOpenData Back End Service: Web Back End Service to publish web content
+    - AmagiOpenData Back End Service
+    
+        web back-end service to administrate server
 
 
 
@@ -179,17 +187,14 @@ The minimum packet data IMALIVE are:
     <?xml version="1.0"?>
         <imalive>
             <minimaldata>
+            
                 <IDstring>      </IDstring> // : Alphanumeric identificator
-                
                 <Name>          </Name>     // : Name of the device
-                
                 <Class>         </Class>    // : Type of device
-                
                 <Family>        </Family>   // : Groups of devices
-                
                 <Beat>          </Beat>     // : Message to the world "I´m Alive"
-                
                 <Message>       </Message>  // : Message 200 char.
+            
             </minimaldata>
         </imalive>
 
