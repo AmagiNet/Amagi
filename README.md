@@ -26,6 +26,12 @@ Code was first..
 The Amagi Project, created with the aim of spreading the values of free hardware and software,
 as well as its use to create free networks.
 
+But a free network must have free data.
+
+Each device on the network should be able to release a minimum data useful to the community,
+in a safe, anonymous and free.
+
+Bring life to your device and join the world's largest network of free devices
 
 
 
@@ -76,7 +82,7 @@ AMAGI class I : All the devices connected
     - are connected to a free network
     - send opendata to an Amagi Server (AMAGI Data Protocol)
 
-
+- Free devices sending opendata 
 Devices List :
 
     - Embebbed Systems ( Raspberry Pi, BeagleBoard, Arduino.. )
