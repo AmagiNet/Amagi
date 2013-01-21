@@ -119,20 +119,22 @@ AMAGI class IV : Some devices connected
         -IMALIVE Data Packet
 
 
-Devices List ( example ):
+Devices List :
 
     - Embebbed Systems
-        - Raspberry Pi
-        - BeagleBoard
-        - Arduino
+        - Raspberry Pi Family
+        - BeagleBoard Family
+        - Arduino Family
     - Phones
         - Android
-        -
+        - IOS
+        - BlackBerry
         - Firefox OS
-        - Other Linux
+        - Others
     - Tablets
         - Android
-        - Other Linux
+        - IOS
+        - Others
     - Set Top Boxes
     - Home Servers
     - Stations ( sensors )
