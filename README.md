@@ -1,6 +1,5 @@
-The Amagi Project
+The Amagi Project      I´m alive... :-)
 =================
-I´m alive... :-)
 
 The user creates the network...
 
