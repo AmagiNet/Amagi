@@ -12,6 +12,7 @@ Code was first..
     <?xml version="1.0"?>
     <amagi>
         <target>Return to the mother</target>
+        <task>build free-ecosystem</task>
         <creator>human</creator>
     </amagi>
 
@@ -21,7 +22,7 @@ as well as its use to create free networks
 
 ....
 
-But a free network must have free data.
+Your free network must have free data.
 
 Each device on the network should be able to release a minimum free data useful to the community,
 in a safe, anonymous and free form.
@@ -30,14 +31,11 @@ in a safe, anonymous and free form.
 
 
 
-
-
-
 <h3>Amagi equation</h3>
 _______________________
 
 
-[Free Hardware] + [Free OS]  + [Free Software Apps] + [Free Networks] + [Open Data] = Free World
+[Free Hardware] + [Free OS]  + [Free Software Apps] + [Free Networks] + [Free Data] = Free Ecosystem
 
 
 
@@ -49,8 +47,8 @@ _______________________
                                 <second>    Free OS             </second>
                                 <third>     Free Software Apps  </third>
                                 <fourth>    Free Networks       </fourth>
-                                <fifth>     Open Data           </fifth>
-                                <total>     Free World          </total>
+                                <fifth>     Free Data           </fifth>
+                                <total>     Free Ecosystem      </total>
                             
                             </components>
                         </equation>
@@ -61,7 +59,7 @@ The ways to apply the formula are infinite. The Amagi project is dedicated to tr
 to get a better and happy world for everyone, without exception.
 
 
-Wake up and join the Amagi movement !
+Wake up and link your devices to Amagi !
 
 
 
@@ -80,11 +78,19 @@ AMAGI class I : All the devices connected
         - have a free operative system running
         - have free software apps running
         
-    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+    - Send Freedata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
-Due to the difficulty of obtaining real hardware and free software,
+Due to the difficulty of obtaining "real" hardware and free software,or to replace the current,
 to make this possible, it is necessary to enable AMAGI - class II, III, IV.
+
+Where devices that do not meet any of the criteria can participate by providing free information,
+the easiest method to join and participate in a global project.
+
+Free data: public domain anonymous dataset provide temporarily or continuously (user decides)
+decide to be used on projects that benefit the following public areas:
+happiness, health, food, culture and work. A
+
 
 AMAGI class II : All devices connected
 
@@ -93,7 +99,7 @@ AMAGI class II : All devices connected
         - have a free operative system running
         - have free software apps running
         
-    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+    - Send Freedata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
 AMAGI class III : All devices connected
@@ -102,7 +108,7 @@ AMAGI class III : All devices connected
         - have a free operative system running
         - have free software apps running
         
-    - Send Opendata to an Amagi Server (AMAGI Data Protocol)
+    - Send Freedata to an Amagi Server (AMAGI Data Protocol)
         -IMALIVE Data Packet
 
 AMAGI class IV : All devices connected
@@ -114,7 +120,7 @@ AMAGI class IV : All devices connected
         -IMALIVE Data Packet
 
 
-Devices List :
+Devices List : ( not closed )
 
     - Embebbed Systems
         - Raspberry Pi Family
