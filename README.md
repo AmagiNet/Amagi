@@ -1,4 +1,4 @@
-The Amagi Project ||| I´m alive... :-)
+The Amagi Project [[[[[[[[[[[[[[[[[    I´m alive... :-)
 =================
 
 The user creates the network...
