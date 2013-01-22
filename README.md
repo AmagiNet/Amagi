@@ -23,18 +23,21 @@ Code was first..
         <creator>human</creator>
     </amagi>
 
-The Amagi Project, created with the aim of spreading the values of free hardware and software,
-as well as its use to create free networks.
+
+The Amagi Project, created with the aim of spreading the values of free hardware and free software,
+as well as its use to create free networks
+
+....
 
 But a free network must have free data.
 
 Each device on the network should be able to release a minimum data useful to the community,
 in a safe, anonymous and free.
 
-The main step to free up a device is turn it into a opendata transmitter active.
+<h5>Free up a device is turn it into a opendata transmitter active.</h5>
 
 
-Bring life to your device
+
 
 
 
