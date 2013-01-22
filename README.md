@@ -1,15 +1,8 @@
 The Amagi Project
 =================
-
-
-
-
 I´m alive... :-)
 
 The user creates the network...
-
-
-
 
 
 What is "Amagi Project" ?
@@ -31,10 +24,10 @@ as well as its use to create free networks
 
 But a free network must have free data.
 
-Each device on the network should be able to release a minimum data useful to the community,
-in a safe, anonymous and free.
+Each device on the network should be able to release a minimum free data useful to the community,
+in a safe, anonymous and free form.
 
-<h5>Free up a device is turn it into a opendata transmitter active.</h5>
+<h5>Free up a device is turn it into a freedata transmitter active.</h5>
 
 
 
